@@ -120,12 +120,12 @@
     "rev": "5b5e3aef9ad7af84f463d17b5479f06b87d5c429"
   },
   "obs": {
-    "hash": "sha256-+X2ZkteIHVq9eP8yrzAERVp7IC2V9MWfcsJsBb+WBd0=",
-    "rev": "3f8af3bf1a1742529259a19d923277786b99e3ef"
+    "hash": "sha256-jeQrbdtIFSvDIrVIFrgV0emDHu1mH6SWt5BSUmK0et4=",
+    "rev": "a994c89a88578d003796b51df67e3623bd864449"
   },
   "palette": {
-    "hash": "sha256-aIIwnSRJPQGaAwprYIRQ7Bp5MtpAhJS8Y007cBi0UsI=",
-    "rev": "5bb0420add3b61e4c7e32549e014f06e03dfbc42"
+    "hash": "sha256-SVF1fNFdvWxZq5vZWiA5WL1VT2qFxuZ5l0ncCwGiy4E=",
+    "rev": "1d13846d736bdd96ca84e8406209c834ed9f8fc6"
   },
   "plymouth": {
     "hash": "sha256-He6ER1QNrJCUthFoBBGHBINouW/tozxQy3R79F5tsuo=",
